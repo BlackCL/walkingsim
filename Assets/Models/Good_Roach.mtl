@@ -1,0 +1,60 @@
+newmtl Body2SG
+illum 4
+Kd 0.59 0.20 0.00
+Ka 0.54 0.54 0.54
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Body3SG
+illum 4
+Kd 0.26 0.09 0.00
+Ka 0.46 0.16 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Body5_darkSG
+illum 4
+Kd 0.19 0.06 0.00
+Ka 0.16 0.06 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Face_eyballsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Face_eyeSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Face_lipsSG
+illum 4
+Kd 0.54 0.00 0.54
+Ka 0.19 0.19 0.19
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl LegsSG
+illum 4
+Kd 1.00 0.38 0.00
+Ka 0.19 0.19 0.19
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 1.00 0.92 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.46 0.16 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00

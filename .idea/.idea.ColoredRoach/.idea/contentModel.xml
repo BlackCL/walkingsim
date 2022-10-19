@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Game Center Admin\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Game Center Admin\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_ColoredRoach.-2117307277.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Game Center Admin\Desktop\ColoredRoach" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="EverythingLibrary" t="Include">
+          <e p="EverythingLibrary_Buildings_001" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="EverythingLibrary_Consumables" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="EverythingLibrary_Furnishings_001" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="First Person Drifter Controller" t="Include">
+          <e p="info.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="FirstPersonDrifter.cs" t="Include" />
+            <e p="LockMouse.cs" t="Include" />
+            <e p="MouseLook.cs" t="Include" />
+            <e p="Optional" t="Include">
+              <e p="CameraFadeOnStart.cs" t="Include" />
+              <e p="CameraZoom.cs" t="Include" />
+              <e p="CheckIfBelowLevel.cs" t="Include" />
+              <e p="HeadBob.cs" t="Include" />
+              <e p="PauseMenu.cs" t="Include" />
+            </e>
+            <e p="Utils" t="Include">
+              <e p="CameraFade.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Number4_JoepieShaderWobble" t="Include">
+            <e p="JoepieShaderWobble.shader" t="Include" />
+          </e>
+          <e p="Number5_Skybox" t="Include">
+            <e p="Horizontal Skybox.shader" t="Include" />
+          </e>
+          <e p="STCore.cginc" t="Include" />
+          <e p="STDefault.shader" t="Include" />
+          <e p="STFunctions.cginc" t="Include" />
+          <e p="STOutline.shader" t="Include" />
+          <e p="STTransparent.shader" t="Include" />
+        </e>
+        <e p="test.cs" t="Include" />
+      </e>
+      <e p="ColoredRoach.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
